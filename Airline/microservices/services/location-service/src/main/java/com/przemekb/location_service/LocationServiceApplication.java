@@ -11,6 +11,5 @@ public class LocationServiceApplication {
 	}
 
 
-	// TODO 01:46:00
 
 }
