@@ -1,4 +1,4 @@
-package com.przemekb.location_service;
+package com.przemekb.services.location_service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

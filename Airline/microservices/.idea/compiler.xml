@@ -8,8 +8,8 @@
         <outputRelativeToContentRoot value="true" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="23">
-      <module name="cloud" target="23" />
+    <bytecodeTargetLevel target="21">
+      <module name="cloud" target="21" />
     </bytecodeTargetLevel>
   </component>
 </project>
